@@ -1,0 +1,16 @@
+Test Case
+
+GET method:
+http://img.alicdn.com/tps/i1/T1FeW3XXNfXXXXXXXX-36-36.gif
+http://www.aliexpress.com/?spm=a2107.1.0.0.247d11d9qt6ogr
+
+POST method:
+http://ocsp.godaddy.com/
+http://ocsp.sca1b.amazontrust.com/
+
+CONNECT method:
+www.youtube.com
+www.google.com
+www.ebay.com
+www.aliexpress.com
+http://geo.yahoo.com

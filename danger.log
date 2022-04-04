@@ -1,0 +1,7 @@
+1. Our code is robust to external failure. We define our own exception class and use the try-catch structure to handle the failures. Once the errors happen when setting up client socket and server socket, or sending data between client and original server, we would throw an exception, which prompts us what happens and we would catch that error so that out proxy server would not crash because of this error.
+
+2. We use mutex to protect the data while calculating the unique id for each request, updating the cache and checking the cache for a new GET request. Mutex locks when we need to change data in our cache or to get a new unique id.
+
+3. When time of the cached response is expired, we would first check if it can be re-validated, which means the header should contains Last-Modified or Etag. If none of them exist, we would give up revalidation and execute the normal process of GET method.
+
+4. The proxy server can fail to receive data from the original server for multiple times. 

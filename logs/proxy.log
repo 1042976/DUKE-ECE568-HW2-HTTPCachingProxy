@@ -1,0 +1,75 @@
+000001: "CONNECT www.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:33 2022
+000001: Requesting "CONNECT www.amazon.com:443 HTTP/1.1" from www.amazon.com
+000002: "CONNECT fls-na.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:33 2022
+000002: Requesting "CONNECT fls-na.amazon.com:443 HTTP/1.1" from fls-na.amazon.com
+000002: Responding "HTTP/1.1 200 OK"
+000001: Responding "HTTP/1.1 200 OK"
+000003: "CONNECT unagi.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:34 2022
+000003: Requesting "CONNECT unagi.amazon.com:443 HTTP/1.1" from unagi.amazon.com
+000003: Responding "HTTP/1.1 200 OK"
+000004: "CONNECT unagi.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:34 2022
+000004: Requesting "CONNECT unagi.amazon.com:443 HTTP/1.1" from unagi.amazon.com
+000005: "CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:34 2022
+000005: Requesting "CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1" from images-na.ssl-images-amazon.com
+000004: Responding "HTTP/1.1 200 OK"
+000005: Responding "HTTP/1.1 200 OK"
+000006: "CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:34 2022
+000006: Requesting "CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1" from images-na.ssl-images-amazon.com
+000006: Responding "HTTP/1.1 200 OK"
+000007: "CONNECT m.media-amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:35 2022
+000007: Requesting "CONNECT m.media-amazon.com:443 HTTP/1.1" from m.media-amazon.com
+000007: Responding "HTTP/1.1 200 OK"
+000008: "CONNECT d1nruqhae353qc.cloudfront.net:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:35 2022
+000008: Requesting "CONNECT d1nruqhae353qc.cloudfront.net:443 HTTP/1.1" from d1nruqhae353qc.cloudfront.net
+000008: Responding "HTTP/1.1 200 OK"
+000009: "CONNECT d2h8zr0m6mus4x.cloudfront.net:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:35 2022
+000009: Requesting "CONNECT d2h8zr0m6mus4x.cloudfront.net:443 HTTP/1.1" from d2h8zr0m6mus4x.cloudfront.net
+000009: Responding "HTTP/1.1 200 OK"
+000010: "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000010: Requesting "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from aax-us-iad.amazon.com
+000011: "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000011: Requesting "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from aax-us-iad.amazon.com
+000011: Responding "HTTP/1.1 200 OK"
+000010: Responding "HTTP/1.1 200 OK"
+000012: "CONNECT aax-us-east-retail-direct.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000012: Requesting "CONNECT aax-us-east-retail-direct.amazon.com:443 HTTP/1.1" from aax-us-east-retail-direct.amazon.com
+000013: "CONNECT aax-us-east-retail-direct.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000013: Requesting "CONNECT aax-us-east-retail-direct.amazon.com:443 HTTP/1.1" from aax-us-east-retail-direct.amazon.com
+000014: "CONNECT aax-us-east-retail-direct.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000014: Requesting "CONNECT aax-us-east-retail-direct.amazon.com:443 HTTP/1.1" from aax-us-east-retail-direct.amazon.com
+000015: "CONNECT aax-us-east-retail-direct.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000015: Requesting "CONNECT aax-us-east-retail-direct.amazon.com:443 HTTP/1.1" from aax-us-east-retail-direct.amazon.com
+000012: Responding "HTTP/1.1 200 OK"
+000014: Responding "HTTP/1.1 200 OK"
+000013: Responding "HTTP/1.1 200 OK"
+000015: Responding "HTTP/1.1 200 OK"
+000016: "CONNECT aan.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000016: Requesting "CONNECT aan.amazon.com:443 HTTP/1.1" from aan.amazon.com
+000017: "CONNECT aan.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000017: Requesting "CONNECT aan.amazon.com:443 HTTP/1.1" from aan.amazon.com
+000018: "CONNECT unagi-na.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000018: Requesting "CONNECT unagi-na.amazon.com:443 HTTP/1.1" from unagi-na.amazon.com
+000019: "CONNECT unagi-na.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000019: Requesting "CONNECT unagi-na.amazon.com:443 HTTP/1.1" from unagi-na.amazon.com
+000016: Responding "HTTP/1.1 200 OK"
+000018: Responding "HTTP/1.1 200 OK"
+000017: Responding "HTTP/1.1 200 OK"
+000019: Responding "HTTP/1.1 200 OK"
+000020: "CONNECT d39x00gckxu2jb.cloudfront.net:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000020: Requesting "CONNECT d39x00gckxu2jb.cloudfront.net:443 HTTP/1.1" from d39x00gckxu2jb.cloudfront.net
+000020: Responding "HTTP/1.1 200 OK"
+000021: "CONNECT completion.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000021: Requesting "CONNECT completion.amazon.com:443 HTTP/1.1" from completion.amazon.com
+000021: Responding "HTTP/1.1 200 OK"
+000022: "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000022: Requesting "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from aax-us-iad.amazon.com
+000023: "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000023: Requesting "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from aax-us-iad.amazon.com
+000024: "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000024: Requesting "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from aax-us-iad.amazon.com
+000025: "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from 136.56.120.52 @ Mon Apr  4 16:03:36 2022
+000025: Requesting "CONNECT aax-us-iad.amazon.com:443 HTTP/1.1" from aax-us-iad.amazon.com
+000023: Responding "HTTP/1.1 200 OK"
+000025: Responding "HTTP/1.1 200 OK"
+000024: Responding "HTTP/1.1 200 OK"
+000022: Responding "HTTP/1.1 200 OK"
